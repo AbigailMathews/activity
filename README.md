@@ -1,7 +1,3 @@
----
-title: "README"
-output: word_document
----
 
 This project involves wearable computing data, namely data collected using the accelerometers from the Samsung Galaxy S smartphone. The ultimate intention of the data collection project is to deduce which sorts of measurements on the smartphone accelerometer correspond to different activities, so that users interested in tracking their exercise and fitness will be better able to track their activity.
 
